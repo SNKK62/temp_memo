@@ -2,7 +2,7 @@
   "theme": "one-dark-pro",
   "autoSaveIntervalSec": null,
   "colorMode": "default",
-  "vimMode": false,
+  "vimMode": true,
   "vimKeyBindings": [
     {
       "type": "map",
