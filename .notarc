@@ -1,0 +1,82 @@
+{
+  "theme": "one-dark-pro",
+  "autoSaveIntervalSec": null,
+  "colorMode": "default",
+  "vimMode": false,
+  "vimKeyBindings": [
+    {
+      "type": "map",
+      "keys": "<Down>",
+      "toKeys": "10j",
+      "noRemap": true,
+      "mode": "normal"
+    },
+    {
+      "type": "map",
+      "keys": "<Up>",
+      "toKeys": "10k",
+      "noRemap": true,
+      "mode": "normal"
+    },
+    {
+      "type": "map",
+      "keys": "<Right>",
+      "toKeys": "10l",
+      "noRemap": true,
+      "mode": "normal"
+    },
+    {
+      "type": "map",
+      "keys": "<Left>",
+      "toKeys": "10h",
+      "noRemap": true,
+      "mode": "normal"
+    },
+    {
+      "type": "map",
+      "keys": "(",
+      "toKeys": "()<Left>",
+      "noRemap": true,
+      "mode": "insert"
+    },
+    {
+      "type": "map",
+      "keys": "j",
+      "toKeys": "gj",
+      "noRemap": true,
+      "mode": "normal"
+    },
+    {
+      "type": "map",
+      "keys": "k",
+      "toKeys": "gk",
+      "noRemap": true,
+      "mode": "normal"
+    },
+    {
+      "type": "map",
+      "keys": ";;",
+      "toKeys": "$",
+      "noRemap": true,
+      "mode": "normal"
+    },
+    {
+      "type": "map",
+      "keys": "''",
+      "toKeys": "^",
+      "noRemap": true,
+      "mode": "normal"
+    },
+    {
+      "type": "unmap",
+      "keys": ";"
+    },
+    {
+      "type": "map",
+      "keys": "[",
+      "toKeys": "[]<Left>",
+      "noRemap": true,
+      "mode": "insert"
+    }
+  ]
+}
